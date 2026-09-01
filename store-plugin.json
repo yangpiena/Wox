@@ -197,7 +197,7 @@
     "Id": "6f920562-1570-4e63-991b-0b39e7d4a2e9",
     "Name": "每日60秒新闻",
     "Author": "qianlifeng",
-    "Version": "1.0.1",
+    "Version": "1.0.2",
     "MinWoxVersion": "2.0.0",
     "Runtime": "script",
     "Description": "基于 https://60s.viki.moe/v2/60s 的每日新闻展示",
@@ -213,7 +213,7 @@
       "Linux"
     ],
     "DateCreated": "2025-08-25 21:15:00",
-    "DateUpdated": "2025-12-13 13:55:00"
+    "DateUpdated": "2026-09-01 02:06:34"
   },
   {
     "Id": "25cb95b8-af4c-4ccb-82d6-38843a9999c1",
@@ -457,7 +457,7 @@
     "Id": "e201dc19-34fb-4ad8-8829-bfb2b2eb25d0",
     "Name": "Crypto Portfolio",
     "Author": "qianlifeng",
-    "Version": "0.0.7",
+    "Version": "0.0.8",
     "MinWoxVersion": "2.0.0",
     "Runtime": "nodejs",
     "Description": "i18n:plugin_description",
@@ -473,7 +473,7 @@
       "linux"
     ],
     "DateCreated": "2026-01-09 16:40:00",
-    "DateUpdated": "2026-03-07 12:04:35",
+    "DateUpdated": "2026-09-01 02:06:39",
     "I18n": {
       "en_US": {
         "plugin_description": "Track your crypto portfolio"
